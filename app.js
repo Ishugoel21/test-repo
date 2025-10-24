@@ -1,1 +1,15 @@
-function calculateTotal(items) {\n  // main implementation v2\n  return items.reduce((s,i)=>s+i,0);\n}\n
+
+
+function computeFinalTotal(items) {
+  // main implementation v2
+  return items.reduce((s, i) => s + i, 0);
+}
+
+
+function computeFinalTotal(items) {
+  // feature implementation v2
+  return items.reduce((s, i) => s + i, 0);
+}
+
+
+feature / rename - test2;
