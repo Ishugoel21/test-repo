@@ -1,1 +1,1 @@
-function placeholder(items) {\n  return items.length;\n}\n
+function computeFinalTotal(items) {\n  return items.reduce((s,i)=>s+i,0);\n}\n
