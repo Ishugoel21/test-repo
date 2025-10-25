@@ -1,0 +1,62 @@
+# Merged Configuration
+version: "1.0.0"
+
+app:
+  name: "E-commerce Platform"
+  port: 3000
+  env: production
+
+database:
+  host: localhost
+  port: 5432
+  name: myapp
+  replication:
+    enabled: true
+    readReplicas:
+      - host: replica1.db.com
+        port: 5432
+      - host: replica2.db.com
+        port: 5432
+  pool:
+    min: 2
+    max: 10
+
+features:
+  authentication: true
+  payment: true
+
+cache:
+  enabled: true
+  provider: redis
+  host: localhost
+  port: 6379
+  ttl: 3600
+
+email:
+  provider: sendgrid
+  apiKey: sg_xxx
+  from: noreply@example.com
+  templates:
+    welcome: welcome-template
+    reset: reset-password
+
+payment:
+  providers:
+    - stripe
+    - paypal
+  stripe:
+    publicKey: pk_xxx
+    secretKey: sk_xxx
+  paypal:
+    clientId: xxx
+    secret: xxx
+
+monitoring:
+  enabled: true
+  sentry:
+    dsn: https://xxx@sentry.io/xxx
+    environment: production
+    tracesSampleRate: 0.1
+  datadog:
+    apiKey: xxx
+    service: ecommerce-api
