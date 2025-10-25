@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev1_adds_tax_1761395505722_a3pkin",
+  "name": "dev1-adds-tax",
+  "createdAt": "2025-10-25T12:31:45.726Z",
+  "lastModified": "2025-10-25T12:31:45.730Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

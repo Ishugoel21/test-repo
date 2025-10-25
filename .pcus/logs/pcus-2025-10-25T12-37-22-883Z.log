@@ -1,0 +1,6 @@
+2025-10-25T12:37:22.884Z INFO  AST Cache initialized: 500MB capacity
+2025-10-25T12:37:22.912Z INFO  SemanticMergeEngine initialized
+{
+  "parallelProcessing": true,
+  "threeWayMerge": true
+}
