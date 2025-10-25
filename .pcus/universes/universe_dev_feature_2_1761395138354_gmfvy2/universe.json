@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_2_1761395138354_gmfvy2",
+  "name": "dev-feature-2",
+  "createdAt": "2025-10-25T12:25:38.358Z",
+  "lastModified": "2025-10-25T12:25:38.359Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

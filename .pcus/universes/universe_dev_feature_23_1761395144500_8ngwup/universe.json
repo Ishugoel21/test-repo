@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_23_1761395144500_8ngwup",
+  "name": "dev-feature-23",
+  "createdAt": "2025-10-25T12:25:44.503Z",
+  "lastModified": "2025-10-25T12:25:44.507Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

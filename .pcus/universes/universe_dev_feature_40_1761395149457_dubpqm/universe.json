@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_40_1761395149457_dubpqm",
+  "name": "dev-feature-40",
+  "createdAt": "2025-10-25T12:25:49.460Z",
+  "lastModified": "2025-10-25T12:25:49.461Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

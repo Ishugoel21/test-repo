@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_29_1761395146250_t50fpa",
+  "name": "dev-feature-29",
+  "createdAt": "2025-10-25T12:25:46.251Z",
+  "lastModified": "2025-10-25T12:25:46.252Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

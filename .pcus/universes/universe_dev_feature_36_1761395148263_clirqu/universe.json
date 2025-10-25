@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_36_1761395148263_clirqu",
+  "name": "dev-feature-36",
+  "createdAt": "2025-10-25T12:25:48.269Z",
+  "lastModified": "2025-10-25T12:25:48.270Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

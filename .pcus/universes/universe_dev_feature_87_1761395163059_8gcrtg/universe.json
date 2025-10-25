@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_87_1761395163059_8gcrtg",
+  "name": "dev-feature-87",
+  "createdAt": "2025-10-25T12:26:03.060Z",
+  "lastModified": "2025-10-25T12:26:03.060Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_18_1761395143030_edg39y",
+  "name": "dev-feature-18",
+  "createdAt": "2025-10-25T12:25:43.031Z",
+  "lastModified": "2025-10-25T12:25:43.037Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_76_1761395159915_jnxyi6",
+  "name": "dev-feature-76",
+  "createdAt": "2025-10-25T12:25:59.916Z",
+  "lastModified": "2025-10-25T12:25:59.919Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

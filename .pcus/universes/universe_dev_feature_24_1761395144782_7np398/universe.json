@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_24_1761395144782_7np398",
+  "name": "dev-feature-24",
+  "createdAt": "2025-10-25T12:25:44.788Z",
+  "lastModified": "2025-10-25T12:25:44.789Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

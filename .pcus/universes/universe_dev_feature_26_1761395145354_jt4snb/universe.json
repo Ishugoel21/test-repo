@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_26_1761395145354_jt4snb",
+  "name": "dev-feature-26",
+  "createdAt": "2025-10-25T12:25:45.357Z",
+  "lastModified": "2025-10-25T12:25:45.358Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

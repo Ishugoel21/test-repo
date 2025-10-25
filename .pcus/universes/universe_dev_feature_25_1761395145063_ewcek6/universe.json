@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_25_1761395145063_ewcek6",
+  "name": "dev-feature-25",
+  "createdAt": "2025-10-25T12:25:45.064Z",
+  "lastModified": "2025-10-25T12:25:45.064Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

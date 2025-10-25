@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_65_1761395156768_vrosmp",
+  "name": "dev-feature-65",
+  "createdAt": "2025-10-25T12:25:56.772Z",
+  "lastModified": "2025-10-25T12:25:56.772Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

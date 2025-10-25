@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_80_1761395161040_nf0zhe",
+  "name": "dev-feature-80",
+  "createdAt": "2025-10-25T12:26:01.043Z",
+  "lastModified": "2025-10-25T12:26:01.046Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}

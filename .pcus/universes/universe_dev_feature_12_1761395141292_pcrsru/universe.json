@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev_feature_12_1761395141292_pcrsru",
+  "name": "dev-feature-12",
+  "createdAt": "2025-10-25T12:25:41.296Z",
+  "lastModified": "2025-10-25T12:25:41.297Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}
