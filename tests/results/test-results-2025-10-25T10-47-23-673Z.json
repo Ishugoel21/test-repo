@@ -1,0 +1,20 @@
+{
+  "timestamp": "2025-10-25T10:47:23.673Z",
+  "summary": {
+    "total": 1,
+    "passed": 0,
+    "failed": 1,
+    "passRate": 0
+  },
+  "results": [
+    {
+      "testId": "GITHUB-001",
+      "passed": false,
+      "actualAccuracy": 0,
+      "expectedAccuracy": 90,
+      "outcome": "error",
+      "error": "Fixture directory not found: D:\\test-repo\\tests\\fixtures\\github-test-repo",
+      "duration": 0
+    }
+  ]
+}
