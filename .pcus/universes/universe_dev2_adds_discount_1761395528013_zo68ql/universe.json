@@ -1,0 +1,14 @@
+{
+  "id": "universe_dev2_adds_discount_1761395528013_zo68ql",
+  "name": "dev2-adds-discount",
+  "createdAt": "2025-10-25T12:32:08.017Z",
+  "lastModified": "2025-10-25T12:32:08.021Z",
+  "baseCommit": "initial",
+  "files": [],
+  "metadata": {
+    "author": "Unknown",
+    "tags": [],
+    "status": "active",
+    "conflicts": []
+  }
+}
