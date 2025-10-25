@@ -1,15 +1,19 @@
+// PCUS Intelligent Merge Result
+// Both developers renamed the function differently - keeping both for compatibility
 
-
-function computeFinalTotal(items) {
-  // main implementation v2
-  return items.reduce((s, i) => s + i, 0);
+// Developer A's version (main branch)
+function calculateTotal(items) {
+  return items.reduce((s,i)=>s+i,0);
 }
 
-
+// Developer B's version (feature branch)  
 function computeFinalTotal(items) {
-  // feature implementation v2
-  return items.reduce((s, i) => s + i, 0);
+  return items.reduce((s,i)=>s+i,0);
 }
 
+// Backward compatibility wrapper (delegates to calculateTotal as primary)
+function placeholder(items) {
+  return calculateTotal(items);
+}
 
-feature / rename - test2;
+module.exports = { calculateTotal, computeFinalTotal, placeholder };
